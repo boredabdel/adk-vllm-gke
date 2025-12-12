@@ -1,1 +1,1 @@
-# This repo contains the code for the tutorial xxxx
+# This repo contains the code for the tutorial https://boredabdel.medium.com/adk-agents-on-gke-with-self-hosted-llms-vllm-bc05cfa0ccfe
